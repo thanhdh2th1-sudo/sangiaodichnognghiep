@@ -1,0 +1,6 @@
+{
+  "name": "Sàn Dịch Vụ Nông Nghiệp",
+  "description": "Nền tảng kết nối trực tiếp nông dân và nhà cung cấp dịch vụ nông nghiệp: Phun thuốc & gieo sạ bằng Drone, máy cắt lúa, cày bừa, bơm tiêu, thu mua nông sản.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
